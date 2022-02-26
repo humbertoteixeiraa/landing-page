@@ -1,0 +1,176 @@
+@media (max-width: 800px) {
+    .menu-bar a {
+        font-size: 16px;
+    }
+
+    .text-name {
+        font-size: 28px;
+    }
+
+    .social-medias a img {
+        width: 28px;
+    }
+
+    .title-text-experience {
+        font-size: 25px;
+    }
+
+    .title-text-education {
+        font-size: 25px;
+    }
+
+    .info-text-education1 {
+        font-size: 13px;
+        font-weight: bold;
+    }
+
+    .title-text-skills {
+        font-size: 25px;
+    }
+
+    .info-text-skills1 {
+        font-size: 12.5px;
+        font-weight: bold;
+    }
+
+    .info-text-skills2 a img {
+        width: 30px;
+    }
+
+    .title-text-interests {
+        font-size: 25px;
+    }
+}
+
+
+@media (max-width: 600px) {
+    .menu-bar a {
+        font-size: 16px;
+    }
+
+    .text-name {
+        font-size: 28px;
+    }
+
+    .social-medias a img {
+        width: 28px;
+    }
+
+    .title-text-experience {
+        font-size: 25px;
+    }
+
+    .title-text-education {
+        font-size: 25px;
+    }
+
+    .info-text-education1 {
+        font-size: 13px;
+        font-weight: bold;
+    }
+
+    .title-text-skills {
+        font-size: 25px;
+    }
+
+    .info-text-skills1 {
+        font-size: 12.5px;
+        font-weight: bold;
+    }
+
+    .info-text-skills2 a img {
+        width: 30px;
+    }
+
+    .title-text-interests {
+        font-size: 25px;
+    }
+}
+
+@media (max-width: 425px) {
+    .menu-bar a {
+        font-size: 16px;
+    }
+
+    .text-name {
+        font-size: 26px;
+    }
+
+    .social-medias a img {
+        width: 25px;
+    }
+
+    .title-text-experience {
+        font-size: 25px;
+    }
+
+    .title-text-education {
+        font-size: 25px;
+    }
+
+    .info-text-education1 {
+        font-size: 13px;
+        font-weight: bold;
+    }
+
+    .title-text-skills {
+        font-size: 25px;
+    }
+
+    .info-text-skills1 {
+        font-size: 12.5px;
+        font-weight: bold;
+    }
+
+    .info-text-skills2 a img {
+        width: 30px;
+    }
+
+    .title-text-interests {
+        font-size: 25px;
+    }
+}
+
+@media (max-width: 375px) {
+    .menu-bar a {
+        font-size: 16px;
+    }
+
+    .text-name {
+        font-size: 25px;
+    }
+
+    .social-medias a img {
+        width: 24px;
+    }
+
+    .title-text-experience {
+        font-size: 25px;
+    }
+
+    .title-text-education {
+        font-size: 25px;
+    }
+
+    .info-text-education1 {
+        font-size: 13px;
+        font-weight: bold;
+    }
+
+    .title-text-skills {
+        font-size: 25px;
+    }
+
+    .info-text-skills1 {
+        font-size: 12.5px;
+        font-weight: bold;
+    }
+
+    .info-text-skills2 a img {
+        width: 26px;
+    }
+
+    .title-text-interests {
+        font-size: 25px;
+    }
+}
